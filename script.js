@@ -88,6 +88,6 @@ btnHold.addEventListener('click', function() {
 
 btnNew.addEventListener('.click', init);
 
-
+// end of the game
 
 
